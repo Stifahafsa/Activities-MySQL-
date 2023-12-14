@@ -1,3 +1,4 @@
+
 1) Database Management Exercise - Medical Records System
 This exercise involves the creation of tables for a Medical Records System in a database. The tables include Patient, Medecin (Doctor), Diagnostic, Traitement (Treatment),
 and Entree_Dossier (Entry Record). The relationships between these tables are established using foreign keys to maintain data integrity.
